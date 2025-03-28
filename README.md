@@ -14,4 +14,4 @@ To provide a decentralized and secure vault for users to store and manage their 
 - Integrating with external DeFi protocols
 
 ## Contract Details
-Contract Address: [6ef98f2f041adea519ebae5e770700b8fc9895ccf87a8d3f0e6c45b620ff9bc0]
+Contract Address: [0x399ba20890c15d44564941f5beb483aa8ad2bd36149810acf41a8cfd12bb57a3]
