@@ -1,0 +1,16 @@
+[package]
+name = "Peer-reviewed-research-publishing-on-chain"
+version = "1.0.0"
+authors = []
+
+[addresses]
+Peer-reviewed-research-publishing-on-chain="0x619dc29a0aac8fa146714058e8dd6d2d0f3bdf5f6331907bf91f3acd81e6935"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
